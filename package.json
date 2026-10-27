@@ -1,5 +1,6 @@
 {
   "name": "spotify-clone-project",
+  "homepage": "https://tev4.github.io/scuffedify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
